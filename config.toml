@@ -7,6 +7,6 @@ Subtitle = "just a place to write stuff down."
 GithubID = "matt2909"
 TwitterID = "@maver"
 Summary = true  # takes true or false
-Content = false  # takes true or false
+Content = true  # takes true or false
 # if both are set to true, summary is shown.
 FooterMsg = "Copyright Matt Horsnell 2017. Powered by Hugo."
