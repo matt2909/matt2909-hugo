@@ -12,6 +12,14 @@ In particular I'm going to look at three types of Map:
 2. Go's new sync.Map type, which is an optimized scalable concurrent map.
 3. Go's builtin map type, protected by an elided rw-mutex.
 
+{{< highlight go "linenos=inline,hl_lines=2 3" >}}
+var a string
+var b string
+var c string
+var d string
+{{< / highlight >}}
+
+
 
 
 
